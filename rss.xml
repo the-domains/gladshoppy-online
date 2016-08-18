@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Gladshoppy Online]]></title>
         <description><![CDATA[Gladshoppy Online]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gladshoppy-online/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 18 Aug 2016 04:46:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/gladshoppy-online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece6736c-127b-4e79-a0db-cce33fa74a1d.jpg">]]></description>
+            <link>https://thegrid.ai/gladshoppy-online/0e68b953-d200-4054-91bb-e3c9527889d9/index.html</link>
+            <guid isPermaLink="false">0e68b953-d200-4054-91bb-e3c9527889d9</guid>
+            <pubDate>Thu, 18 Aug 2016 04:46:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67f27ced-ce71-496c-bae8-3753846148c3.jpg">]]></description>
-            <link>undefined11db2906-dd14-4189-b47c-6cdfb281771d/index.html</link>
+            <link>https://thegrid.ai/gladshoppy-online/11db2906-dd14-4189-b47c-6cdfb281771d/index.html</link>
             <guid isPermaLink="false">11db2906-dd14-4189-b47c-6cdfb281771d</guid>
             <pubDate>Thu, 18 Aug 2016 04:46:41 GMT</pubDate>
         </item>
